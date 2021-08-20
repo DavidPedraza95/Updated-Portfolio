@@ -3,7 +3,7 @@
 Header with name
 Links to an about me, work, contact me, and resume
 About me section updated.
-Work section to Stock Tracker, Day Planner, Code Quiz, Password Generator, and Scratch Game.
+Work section to Stock Tracker, Day Planner, Central Data Processor, Password Generator, and Scratch Game.
 Contact Me section providing phone number, email, GitHub, Linkedin, and Facebook.
 
 2. HTML created and linked using websites and pdf documents such as resume.
